@@ -42,7 +42,10 @@
     "externalReference": [],
     "globalMetadata": {
       "show_latex": true,
-      "ms.prod": "qsharp",
+      "ms.author": "quantumdocwriters",
+      "ms.date": "07/14/2023",
+      "author": "bradben",
+      "ms.service": "azure-quantum",
       "ms.topic": "managed-reference",
       "ms.devlang":"qsharp",
       "uhfHeaderId": "Azure",
